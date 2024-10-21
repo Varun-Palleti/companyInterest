@@ -14,4 +14,5 @@ This tool automates a **hidden feature** on LinkedIn company pages—the "I'm in
 
 ## Demo
 
-Check out this [Instagram Reel]([https://www.instagram.com/reel/DA7R5y0NrHb/?igsh=bTNqbjBhcWY4aXJt](https://www.instagram.com/reel/DArkfnft_3w/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)) for a quick look!
+Check out this [Instagram Reel](https://www.instagram.com/reel/DArkfnft_3w/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==) for a quick look!
+
