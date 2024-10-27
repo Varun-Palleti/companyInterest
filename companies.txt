@@ -1,0 +1,50 @@
+Amazon
+LinkedIn
+Microsoft
+Google
+Amazon Web Services (AWS)
+Oracle
+Infosys
+EY
+Accenture
+Cisco
+PwC
+Salesforce
+JPMorgan Chase
+Spotify
+AstraZeneca
+TikTok
+Roche
+Morgan Stanley
+Intel
+HSBC
+Nvidia
+AMD
+ARM
+Tesla
+Barclays
+Cognizant
+Verizon
+VMware
+Meta (Facebook)
+Twitter
+Intel
+Adobe
+Boston Consulting Group (BCG)
+Zoom
+MongoDB
+ServiceNow
+Bloomberg
+Uber
+Apple
+Goldman Sachs
+Palantir
+SAP
+Oracle
+Capgemini
+KPMG
+McKinsey & Company
+Deloitte
+Riot Games
+Epic Games
+Google DeepMind
