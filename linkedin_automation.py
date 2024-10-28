@@ -5,7 +5,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 import time
 
-email = "palleti@terpmail.umd.edu"
+email = os.getenv("EMAIL")
 whatuLookinAt = os.getenv("LINKEDIN_PASSWORD")
 
 # Set up the Chrome driver
