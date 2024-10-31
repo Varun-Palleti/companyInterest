@@ -1,4 +1,6 @@
-# LinkedIn Automation Tool
+# Currently Down For Updates, Will be back with a new frontend :)
+
+## LinkedIn Automation Tool
 
 This tool automates a **hidden feature** on LinkedIn company pages—the "I'm interested" button under the Life tab, which puts candidates into a separate recruiter bucket. This feature can be time-consuming to find and click manually, so this tool automates it across multiple tech companies.
 
